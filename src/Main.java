@@ -8,7 +8,7 @@ public class Main {
         int ageyear = 1992;
         String town = "St. Ulrich am Pillersee";
 
-        System.out.println("Hello " + firstname + " " + lastname + "!\nDu kommst von " + town + "!");
+        System.out.println("Hello " + firstname + " " + lastname + "!\nDu kommst von " + town + "!\nDu bist " + age + " Jahre alt!");
 
     }
 
