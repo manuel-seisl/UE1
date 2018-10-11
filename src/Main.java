@@ -2,10 +2,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String firstname = "Manuel";
-        int age = (int) 25.6;
+        String lastname = "Seisl";
+        int ageyear = 1992;
 
-        System.out.println("Hello " + firstname + "!\nDu bist " + age + " Jahre alt!");
+        System.out.println("Hello " + lastname + "!\nDein Jahrgang ist " + ageyear + "!");
 
     }
 
